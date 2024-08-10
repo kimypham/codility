@@ -1,4 +1,4 @@
-// link to codility results: https://app.codility.com/demo/results/training5ZDK49-YEW/
+// link to codility report: https://app.codility.com/demo/results/training5ZDK49-YEW/
 
 function solution(A: number[], K: number): number[] {
     const arrayLength = A.length;

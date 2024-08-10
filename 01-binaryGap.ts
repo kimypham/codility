@@ -1,4 +1,4 @@
-// link to codility results: https://app.codility.com/demo/results/trainingSP2RQK-RK3/
+// link to codility report: https://app.codility.com/demo/results/trainingSP2RQK-RK3/
 
 function solution(N: number): number {
     const binary: string = N.toString(2);
