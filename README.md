@@ -10,3 +10,6 @@
 ([Codility report](https://app.codility.com/demo/results/trainingXABVZ4-573/))
 - [X] [FrogJmp](04-frogJmp.ts): Count minimal number of jumps from position X to Y.
 ([Codility report](https://app.codility.com/demo/results/trainingS6S8TW-T3G/))
+- [X] [PermMissingElem](05-permMissingElem.ts): Find the missing element in a given permutation.
+([Codility report](https://app.codility.com/demo/results/trainingS6S8TW-T3G/))
+https://app.codility.com/demo/results/trainingD3F4K2-2JW/
