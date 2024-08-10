@@ -17,3 +17,4 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 - [X] [PermMissingElem](05-permMissingElem.ts): Find the missing element in a given permutation.
 ([Codility report](https://app.codility.com/demo/results/trainingD3F4K2-2JW/))
 - [X] [TapeEquilibrium](06-tapeEquilibrium.ts): Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|. ([Codility report](https://app.codility.com/demo/results/trainingPWGX2T-AC8/))
+- [X] [FrogRiverOne](07-frogRiverOne.ts): Find the earliest time when a frog can jump to the other side of a river. ([Codility report](https://app.codility.com/demo/results/trainingNZEPKU-V7Z/))

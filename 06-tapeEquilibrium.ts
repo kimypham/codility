@@ -1,4 +1,4 @@
-// link to codility results: https://app.codility.com/demo/results/trainingPWGX2T-AC8/
+// link to codility report: https://app.codility.com/demo/results/trainingPWGX2T-AC8/
 
 function solution(A: number[]): number {
     let firstSum: number = A[0];
