@@ -1,4 +1,8 @@
 # Codility solutions in TypeScript
+Here are my TypeScript solutions to the Codility tests given in their lessons.
+
+Whilst my solutions have 100% correctness and performance on Codility, these solutions may or may not have the best performace - be careful when using them!
+
 
 ## Iterations
 - [X] [BinaryGap](01-binaryGap.ts): Find longest sequence of zeros in binary representation of an integer.
@@ -11,5 +15,5 @@
 - [X] [FrogJmp](04-frogJmp.ts): Count minimal number of jumps from position X to Y.
 ([Codility report](https://app.codility.com/demo/results/trainingS6S8TW-T3G/))
 - [X] [PermMissingElem](05-permMissingElem.ts): Find the missing element in a given permutation.
-([Codility report](https://app.codility.com/demo/results/trainingS6S8TW-T3G/))
-https://app.codility.com/demo/results/trainingD3F4K2-2JW/
+([Codility report](https://app.codility.com/demo/results/trainingD3F4K2-2JW/))
+- [X] [TapeEquilibrium](06-tapeEquilibrium.ts): Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|. ([Codility report](https://app.codility.com/demo/results/trainingPWGX2T-AC8/))
