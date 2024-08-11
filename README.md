@@ -26,3 +26,4 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 7 | [FrogRiverOne](07-frogRiverOne.ts)  | Find the earliest time when a frog can jump to the other side of a river.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingNZEPKU-V7Z/) |
+| 8 | [PermCheck](08-permCheck.ts)  | Check whether array A is a permutation.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingJXF7T8-H3J/) |
