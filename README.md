@@ -34,3 +34,4 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 11 | [PassingCars](11-passingCars.ts)  | Count the number of passing cars on the road.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingGS37S5-GEZ/) |
+| 12 | [CountDiv](12-countDiv.ts)  | Compute number of integers divisible by k in range [a..b].  |  Medium  |  O(1)  |  [Report](https://app.codility.com/demo/results/trainingXWUUFR-9NN/) |
