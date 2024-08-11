@@ -28,4 +28,9 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 | 7 | [FrogRiverOne](07-frogRiverOne.ts)  | Find the earliest time when a frog can jump to the other side of a river.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingNZEPKU-V7Z/) |
 | 8 | [PermCheck](08-permCheck.ts)  | Check whether array A is a permutation.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingJXF7T8-H3J/) |
 | 9 | [MaxCounters](09-maxCounters.ts)  | Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.  |  Medium  |  O(n + m)  |  [Report](https://app.codility.com/demo/results/trainingXJBVAD-MPP/) |
-| 10 | [MissingInteger](10-missingInteger.ts)  | Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.  |  Medium  |  O(n)  |  [Report](https://app.codility.com/demo/results/training24USKA-X23/) |
+| 10 | [MissingInteger](10-missingInteger.ts)  | Find the smallest positive integer that does not occur in a given sequence.  |  Medium  |  O(n)  |  [Report](https://app.codility.com/demo/results/training24USKA-X23/) |
+
+## Prefix Sums ➕
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| 11 | [PassingCars](11-passingCars.ts)  | Count the number of passing cars on the road.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingGS37S5-GEZ/) |
