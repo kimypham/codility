@@ -37,3 +37,8 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 | 12 | [CountDiv](12-countDiv.ts)  | Compute number of integers divisible by k in range [a..b].  |  Medium  |  O(1)  |  [Report](https://app.codility.com/demo/results/trainingXWUUFR-9NN/) |
 | 13 | [GenomicRangeQuery](13-genomicRangeQuery.ts)  | Find the minimal nucleotide from a range of sequence DNA.  |  Medium  |  O(n + m)  |  [Report](https://app.codility.com/demo/results/trainingXEU9UX-EDA/) |
 | 14 | [MinAvgTwoSlice](14-minAvgTwoSlice.ts)  | Find the minimal average of any slice containing at least two elements.  |  Medium  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingE7X25U-Z7S/) |
+
+## Sorting 📈
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| 15 | [Distinct](15-distinct.ts)  | Compute number of distinct values in an array.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingRDJN4T-FE3/) |
