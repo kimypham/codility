@@ -42,3 +42,4 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 15 | [Distinct](15-distinct.ts)  | Compute number of distinct values in an array.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingRDJN4T-FE3/) |
+| 16 | [MaxProductOfThree](16-maxProductOfThree.ts)  | Compute number of distinct values in an array.  |  Easy  |  O(n * log(n))  |  [Report](https://app.codility.com/demo/results/training24GCPC-HA9/) |
