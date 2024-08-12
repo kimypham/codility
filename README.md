@@ -43,3 +43,4 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 15 | [Distinct](15-distinct.ts)  | Compute number of distinct values in an array.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingRDJN4T-FE3/) |
 | 16 | [MaxProductOfThree](16-maxProductOfThree.ts)  | Compute number of distinct values in an array.  |  Easy  |  O(n * log(n))  |  [Report](https://app.codility.com/demo/results/training24GCPC-HA9/) |
+| 17 | [Triangle](17-triangle.ts)  | Determine whether a triangle can be built from a given set of edges.  |  Easy  |  O(n * log(n))  |  [Report](https://app.codility.com/demo/results/trainingD9KJ46-7AD/) |
