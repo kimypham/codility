@@ -51,3 +51,4 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 19 | [Brackets](19-brackets.ts)  | Determine whether a given string of parentheses (multiple types) is properly nested.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingJTTCPC-BRY/) |
 | 20 | [Fish](20-fish.ts)  | N voracious fish are moving along a river. Calculate how many fish are alive.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/training4KUXCX-X9A/) |
+| 21 | [Nesting](21-nesting.ts)  |  Determine whether a given string of parentheses (single type) is properly nested.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingSPDAN2-4JY/) |
