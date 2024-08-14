@@ -70,7 +70,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 ## Prime and Composite Numbers
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-28
+| 28 | [CountFactors](28-countFactors.ts)  |  Count factors of given number n.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingNV6C8U-QAT/)|
 29
 30
 31
