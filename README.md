@@ -53,3 +53,8 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 | 20 | [Fish](20-fish.ts)  | N voracious fish are moving along a river. Calculate how many fish are alive.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/training4KUXCX-X9A/) |
 | 21 | [Nesting](21-nesting.ts)  |  Determine whether a given string of parentheses (single type) is properly nested.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingSPDAN2-4JY/) |
 | 22 | [StoneWall](21-stoneWall.ts)  |  Cover "Manhattan skyline" using the minimum number of rectangles.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingMYWT6V-HJN/) |
+
+## Leader 👑
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+| 23 | [Dominator](23-dominator.ts)  |  Find an index of an array such that its value occurs at more than half of indices in the array.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingFN5XU6-UD3/)  [Report2](https://app.codility.com/demo/results/trainingFN5XU6-UD3/)|
