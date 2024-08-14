@@ -64,7 +64,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 25 | [MaxProfit](25-maxProfit.ts)  |  Given a log of stock prices compute the maximum possible earning.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingN3TH5Q-Z44/)|
-26
+| 26 | [MaxSliceSum](26-maxSliceSum.ts)  |  Find a maximum sum of a compact subsequence of array elements.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingHFGZH5-QU2/)|
 27
 
 ## Prime and Composite Numbers
