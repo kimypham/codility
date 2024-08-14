@@ -67,7 +67,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 | 26 | [MaxSliceSum](26-maxSliceSum.ts)  |  Find a maximum sum of a compact subsequence of array elements.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingHFGZH5-QU2/)|
 27
 
-## Prime and Composite Numbers
+## Prime and Composite Numbers ☝️
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 28 | [CountFactors](28-countFactors.ts)  |  Count factors of given number n.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingNV6C8U-QAT/)|
@@ -81,10 +81,10 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 32
 33
 
-## Euclidean Algorithm
+## Euclidean Algorithm 
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-34
+| 34 | [ChocolatesByNumbers](34-chocolatesByNumbers.ts)  |  There are N chocolates in a circle. Count the number of chocolates you will eat.  |  [Report](https://app.codility.com/demo/results/trainingKDV2YK-9QX/)|
 35
 
 ## Fibonacci Numbers
