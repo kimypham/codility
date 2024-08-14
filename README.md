@@ -57,4 +57,64 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 ## Leader 👑
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-| 23 | [Dominator](23-dominator.ts)  |  Find an index of an array such that its value occurs at more than half of indices in the array.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingFN5XU6-UD3/)  [Report2](https://app.codility.com/demo/results/trainingFN5XU6-UD3/)|
+| 23 | [Dominator](23-dominator.ts)  |  Find an index of an array such that its value occurs at more than half of indices in the array.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingFN5XU6-UD3/),  [Report2](https://app.codility.com/demo/results/trainingFN5XU6-UD3/)|
+| 24 | [EquiLeader](24-equiLeader.ts)  |  Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] and A[S + 1], A[S + 2], ..., A[N - 1] are the same.  |  Easy  |  O(n)  |  [Report1](https://app.codility.com/demo/results/trainingMH88KQ-M45/)|
+
+## Maximum Slice Problem 🍰
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+25
+26
+27
+
+## Prime and Composite Numbers
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+28
+29
+30
+31
+
+## Sieve of Eratosthenes
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+32
+33
+
+## Euclidean Algorithm
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+34
+35
+
+## Fibonacci Numbers
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+36
+37
+
+## Binary Search Algorithm
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+38
+39
+
+## Caterpillar method
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+40
+41
+42
+43
+
+## Greedy Algorithms
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+44
+45
+
+## Dynamic programming
+|   | Task  | Description | Difficulty | Time Complexity | Codility Report |
+| -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
+46
+47
