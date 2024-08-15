@@ -104,7 +104,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 40 | [ AbsDistinct](40-absDistinct.ts)  |  Compute number of distinct absolute values of sorted array elements. |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingMQS8CV-V2W/)|
 | 41 | [ CountDistinctSlices](41-countDistinctSlices.ts)  |  Count the number of distinct slices (containing only unique numbers). |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingBDP4UZ-EHN/)|
-42
+| 42 | [ CountTriangles](42-countTriangles.ts)  |  Count the number of triangles that can be built from a given set of edges. |  Easy  |  O(n^2)  |  [Report](https://app.codility.com/demo/results/training5E7UB7-8AY/)|
 43
 
 ## Greedy Algorithms
