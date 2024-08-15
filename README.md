@@ -103,7 +103,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 40 | [ AbsDistinct](40-absDistinct.ts)  |  Compute number of distinct absolute values of sorted array elements. |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingMQS8CV-V2W/)|
-41
+| 41 | [ CountDistinctSlices](41-countDistinctSlices.ts)  |  Count the number of distinct slices (containing only unique numbers). |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingBDP4UZ-EHN/)|
 42
 43
 
