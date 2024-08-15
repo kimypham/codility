@@ -84,7 +84,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 ## Euclidean Algorithm 
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-| 34 | [ChocolatesByNumbers](34-chocolatesByNumbers.ts)  |  There are N chocolates in a circle. Count the number of chocolates you will eat.  |  [Report](https://app.codility.com/demo/results/trainingKDV2YK-9QX/)|
+| 34 | [ChocolatesByNumbers](34-chocolatesByNumbers.ts)  |  There are N chocolates in a circle. Count the number of chocolates you will eat. |  Easy  |  O(log n)  |  [Report](https://app.codility.com/demo/results/trainingKDV2YK-9QX/)|
 35
 
 ## Fibonacci Numbers
@@ -102,7 +102,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 ## Caterpillar method
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-40
+| 40 | [ AbsDistinct](40-absDistinct.ts)  |  Compute number of distinct absolute values of sorted array elements. |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingMQS8CV-V2W/)|
 41
 42
 43
