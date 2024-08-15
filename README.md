@@ -71,7 +71,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
 | 28 | [CountFactors](28-countFactors.ts)  |  Count factors of given number n.  |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingNV6C8U-QAT/)|
-29
+| 29 | [MinPerimeterRectangle](29-minPerimeterRectangle.ts)  |  Find the minimal perimeter of any rectangle whose area equals N.  |  Easy  |  O(sqrt(n))  |  [Report](https://app.codility.com/demo/results/training2H23M8-GRQ/)|
 30
 31
 
