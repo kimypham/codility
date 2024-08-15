@@ -110,7 +110,7 @@ Whilst my solutions have 100% correctness and performance on Codility, these sol
 ## Greedy Algorithms
 |   | Task  | Description | Difficulty | Time Complexity | Codility Report |
 | -- | :-------------: | ------------- | :-------------: | :-------------: | :-------------: |
-44
+| 44 | [ MaxNonoverlappingSegments](44-maxNonoverlappingSegments.ts)  |  Find a maximal set of non-overlapping segments. |  Easy  |  O(n)  |  [Report](https://app.codility.com/demo/results/trainingT3Q3N9-MES/)|
 45
 
 ## Dynamic programming
